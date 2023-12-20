@@ -1,0 +1,77 @@
+[
+    {
+        "VariantType": "Repeat",
+        "LocusId": "TBP_ILMN",
+        "LocusStructure": "(GCA)*",
+        "ReferenceRegion": "6:170870994-170871105"
+    },
+    {
+        "VariantType": "Repeat",
+        "LocusId": "TBP_multikulti",
+        "LocusStructure": "(RCA)*",
+        "ReferenceRegion": "6:170870994-170871105"
+    },
+    {
+        "VariantType": "Repeat",
+        "LocusId": "TBP_Suran",
+        "LocusStructure": "(RCA)*",
+        "ReferenceRegion": "6:170870991-170871114"
+    },
+    {
+        "VariantType": "Repeat",
+        "LocusId": "ATN1",
+        "LocusStructure": "(CAGCAA)*(CAG)*",
+        "ReferenceRegion": [
+        "12:7045879-7045891",
+        "12:7045891-7045936"
+        ],
+        "VariantId": [
+            "ATN1_CAGCAA",
+            "ATN1_CAG"
+        ],
+        "VariantType": [
+            "Repeat",
+            "Repeat"
+        ]
+    },
+    {
+        "VariantType": "Repeat",
+        "LocusId": "ATXN1",
+        "LocusStructure": "(TGC)*",
+        "ReferenceRegion": "6:16327867-16327954"
+    },
+    {
+        "VariantType": "Repeat",
+        "LocusId": "ATXN2",
+        "LocusStructure": "(GCT)*",
+        "ReferenceRegion": "12:112036753-112036822"
+    },
+    {
+        "VariantType": "Repeat",
+        "LocusId": "ATXN3",
+        "LocusStructure": "(GCT)*",
+        "ReferenceRegion": "14:92537344-92537386"
+    },
+    {
+        "LocusId": "ATXN7",
+        "LocusStructure": "(GCA)*(GCC)+",
+        "ReferenceRegion": [
+            "3:63898360-63898390",
+            "3:63898390-63898402"
+        ],
+        "VariantType": [
+            "Repeat",
+            "Repeat"
+        ],
+        "VariantId": [
+            "ATXN7",
+            "ATXN7_GCC"
+        ]
+    },
+    {
+        "VariantType": "Repeat",
+        "LocusId": "CACNA1A",
+        "LocusStructure": "(CTG)*",
+        "ReferenceRegion": "19:13318672-13318711"
+    }
+]

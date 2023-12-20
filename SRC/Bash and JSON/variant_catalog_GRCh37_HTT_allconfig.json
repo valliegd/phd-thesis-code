@@ -1,0 +1,25 @@
+{
+        "LocusId": "HTT",
+        "LocusStructure": "(CAG)*(CAACAG)*(CCGCCA)*(CCG)*(CCT)*",
+        "ReferenceRegion": [
+            "4:3076603-3076660",
+	          "4:3076661-3076666",
+            "4:3076667-3076672",
+            "4:3076673-3076693",
+	          "4:3076694-3076699"
+        ],
+        "VariantId": [
+            "HTT",
+	          "HTT_CAACAG",
+	          "HTT_CCGCCA",
+            "HTT_CCG",
+	          "HTT_CCT"
+        ],
+        "VariantType": [
+            "Repeat",
+            "Repeat",
+            "Repeat",
+	          "Repeat",
+            "Repeat"
+        ]
+    }
